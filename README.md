@@ -1,6 +1,6 @@
 # Table of Contents
 1. [Description](#description)
-2. [History](#history)
+2. [History](#history)
 3. [Demo](#Demo)
 4. [Main Feature](#main-feature)
 5. [Requirements](#requirements)
